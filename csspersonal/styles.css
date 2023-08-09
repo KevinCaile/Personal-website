@@ -1,0 +1,134 @@
+body{
+margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Amatic SC', cursive;
+    font-size: 5.625rem;
+    color: #F8EDE3;
+    line-height: 0.5;
+}
+h2{
+    font-family: 'Amatic SC', cursive;
+    font-size: 2.5rem;
+    color: #F8EDE3;
+    font-weight: normal;
+}
+h3{
+    font-family: 'Press Start 2P', cursive;
+    color: #F8EDE3;
+}
+p{
+    line-height: 2;
+}
+
+.top-container {
+    background-color: #1C315E;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    background-color: #1C315E;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.bottom-container{
+    background-color: #F8EDE3;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.Web{
+   text-decoration: underline; 
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.computer-icon{
+    width: 25%;
+    float: left;
+    margin: 0 30px 30px 0;
+}
+.camera-icon{
+    width: 25%;
+    float: right;
+    margin: 0 0 30px 30px;
+}
+.mountain{
+    margin-bottom: 0;
+}
+p{
+    color: #F8EDE3;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left; 
+}
+hr{
+    border-top: 1px dotted;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-width: 8px;
+    width: 6%;
+    position: relative;
+    margin: 100px auto;
+    color: #EAF6F6;
+}
+.btn {
+    background: #469bd4;
+    background-image: -webkit-linear-gradient(top, #469bd4, #114b70);
+    background-image: -moz-linear-gradient(top, #469bd4, #114b70);
+    background-image: -ms-linear-gradient(top, #469bd4, #114b70);
+    background-image: -o-linear-gradient(top, #469bd4, #114b70);
+    background-image: linear-gradient(to bottom, #469bd4, #114b70);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Press Start 2P', cursive;
+    color: #f7f7f7;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #397194;
+    background-image: -webkit-linear-gradient(top, #397194, #3498db);
+    background-image: -moz-linear-gradient(top, #397194, #3498db);
+    background-image: -ms-linear-gradient(top, #397194, #3498db);
+    background-image: -o-linear-gradient(top, #397194, #3498db);
+    background-image: linear-gradient(to bottom, #397194, #3498db);
+    text-decoration: none;
+  }
+  .footer-link{
+    color: #1C315E;
+  }
+  .trade-mark{
+    color: #8a9ec7;
+    font-size: 0.75rem;
+  }
+  a{
+    color: #1C315E;
+    font-family: 'Amatic SC', cursive;
+    margin: 10px 20px;
+    font-size: 200%;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  a:hover{
+    color: #5daddf;
+  }
+  .assistance{
+    padding-bottom: 30px;
+  }
